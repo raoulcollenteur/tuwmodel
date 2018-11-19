@@ -1,9 +1,6 @@
 TUWmodel
 --------
-Python implementation of the rainfall-runoff TUWmodel developed by Parajak 
-et al. (2007). The model is based on the original Fortran code, updated to 
-Fotran 90 and optimized for use in the Python library. This python package 
-is still work in progress, but can be used already (2018-11-19). 
+Python implementation of the rainfall-runoff TUWmodel developed by Parajka et al. (2007). The model is based on the original Fortran code, updated to Fotran90 and optimized for use in the Python library. This python package is still work in progress, but can be used already (2018-11-19). 
 
 Installation
 ------------
