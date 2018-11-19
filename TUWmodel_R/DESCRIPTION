@@ -1,0 +1,21 @@
+Package: TUWmodel
+Type: Package
+Title: Lumped Hydrological Model for Education Purposes
+Version: 1.0-1
+Date: 2018-06-27
+Authors@R: c(person("Alberto", "Viglione", role=c("aut", "cre"), email="viglione@hydro.tuwien.ac.at"),
+             person("Juraj", "Parajka", role=c("aut"), email="parajka@hydro.tuwien.ac.at"))
+Depends: R (>= 3.0.0), stats
+Description: The model, developed at the Vienna University of Technology, is a lumped conceptual rainfall-runoff model, following the structure of the HBV model. 
+             The model runs on a daily or shorter time step and consists of a snow routine, a soil moisture routine and a flow routing routine. 
+             See Parajka, J., R. Merz, G. Bloeschl (2007) <DOI:10.1002/hyp.6253> Uncertainty and multiple objective calibration in regional water balance modelling: case study in 320 Austrian catchments, Hydrological Processes, 21, 435-446. 
+NeedsCompilation: yes
+License: GPL (>= 2)
+Packaged: 2018-06-27 12:44:41 UTC; alviglio
+Author: Alberto Viglione [aut, cre],
+  Juraj Parajka [aut]
+Maintainer: Alberto Viglione <viglione@hydro.tuwien.ac.at>
+Repository: CRAN
+Date/Publication: 2018-06-27 13:13:08 UTC
+Built: R 3.5.0; x86_64-apple-darwin15.6.0; 2018-06-28 06:39:31 UTC; unix
+Archs: TUWmodel.so.dSYM
